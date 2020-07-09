@@ -7,6 +7,7 @@ I :heart: open source!
 - :memo: [Blog](https://chungzh.cn).
 - :card_index: [Portfolio](https://chungzh.cc).
 - :hammer_and_pick: C++ / Qt / ~~Markdown~~.
+- :package: Building [Notepanda](https://github.com/ChungZH/notepanda), [pedit](https://github.com/pandaos/pedit), [EasyHexo](https://github.com/EasyHexo/Easy-Hexo) and more.
 - :school: **Primary School** -> Middle School (2020.9)
 - :email: Mail: `chungzh07 at gmail.com`.
 
