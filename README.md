@@ -1,5 +1,7 @@
 # I'm ChungZH! :wave:
 
+<div align="right"><img src="https://s1.ax1x.com/2020/04/19/JuatAg.gif"/></div>
+
 🎊 Hello World!
 
 I :heart: open source!
