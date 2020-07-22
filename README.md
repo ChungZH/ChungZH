@@ -13,7 +13,7 @@
 - :pencil2: Arch Linux & fish & VS Code & DDE & Iosevka / JetBrains Mono.
 - :memo: [Blog](https://chungzh.cn) :card_index: [Portfolio](https://chungzh.cc) :email: `chungzh07 at gmail.com` :airplane: [Telegram](https://t.me/realChungZH).
 
-![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&show_icons=true)
+![ChungZH's github stats](https://github-readme-stats.vercel.app/api?username=ChungZH&theme=gruvbox&show_icons=true)
 
 
 ###### 💾 EOF
