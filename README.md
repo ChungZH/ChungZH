@@ -9,7 +9,7 @@
 🎊 Hello world!
 
 - :hammer_and_pick: C++ / ~~Markdown~~. Qt.
-- :pencil2: 🪟 & Arch Linux & KDE & VS Code & 🐟-shell & Iosevka / JetBrains Mono.
+- 🪟-11 & Arch Linux & KDE & VS Code & 🐟-shell & Iosevka / JetBrains Mono.
 - :memo: [Blog](https://blog.chungzh.cn) :card_index: [Portfolio](https://chungzh.cn) :email: `chungzh07 at gmail.com` :airplane: [Telegram](https://t.me/realChungZH) :elephant: [Mastodon - m.cmx.im](https://m.cmx.im/web/accounts/106729264817908826) .
 - :peach: My [Scoop](https://scoop.sh) bucket [peach](https://github.com/ChungZH/peach).
 
