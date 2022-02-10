@@ -8,7 +8,7 @@
 
 🎊 Hello world!
 
-A rookie OIer 🚀🥬
+A rookie OIer 🚀🥬 ISFJ-T.
 
 A.k.a. **Prof. 猪** in [HM University](https://github.com/HMUniversity).
 
