@@ -28,6 +28,11 @@ Founder of [Nothing Else / 无他 Lab](https://github.com/NthElse).
 </details>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ###### 💾 EOF
