@@ -27,6 +27,7 @@ Founder of [Nothing Else / 无他 Lab](https://github.com/NthElse).
 
 </details>
 
-![](https://wakatime.com/share/@661d57d7-5fbd-4f35-9381-102c79e9b380/d4d4fdc4-a875-405f-8b92-ffcd3ebee289.png)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ###### 💾 EOF
