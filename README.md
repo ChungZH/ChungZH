@@ -30,11 +30,10 @@ Founder of [Nothing Else / 无他 Lab](https://github.com/NthElse).
 <!--START_SECTION:waka-->
 
 ```text
-C++          9 hrs 50 mins   ██████████████████░░░░░░░   71.65 %
-Markdown     3 hrs 7 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.70 %
-HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+C++          10 hrs 11 mins  █████████████████▓░░░░░░░   71.10 %
+Markdown     3 hrs 7 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.83 %
+HTML         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
