@@ -30,8 +30,8 @@ A.k.a. **Prof. 猪** in [HM University](https://github.com/HMUniversity).
 <!--START_SECTION:waka-->
 
 ```text
-C++        56 mins         ████████████████████████▓   98.79 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+C++        17 mins         ████████████████████████▓   98.22 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
