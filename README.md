@@ -30,9 +30,8 @@ A.k.a. **Prof. 猪** in [HM University](https://github.com/HMUniversity).
 <!--START_SECTION:waka-->
 
 ```text
-C++        2 hrs 30 mins   ██████████████████████▒░░   89.83 %
-Markdown   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Other      5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+C++        3 hrs 25 mins   █████████████████████▓░░░   86.24 %
+Markdown   32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.76 %
 ```
 
 <!--END_SECTION:waka-->
