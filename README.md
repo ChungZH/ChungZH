@@ -29,7 +29,7 @@ A.k.a. **Prof. 猪** in [HM University](https://github.com/HMUniversity).
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
