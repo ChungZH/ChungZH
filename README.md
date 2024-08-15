@@ -8,11 +8,9 @@
 
 🎊 Hello world!
 
-A rookie OIer 🚀🥬 ISFJ-T.
+~~A rookie OIer~~已跑路。 🚀🥬 ISFJ-T.
 
 A.k.a. **Prof. 猪** in [HM University](https://github.com/HMUniversity).
-
-<!-- Founder of [Nothing Else / 无他 Lab](https://github.com/NthElse). -->
 
 - :hammer_and_pick: C++ & ~~Markdown~~. Qt.
 - 🪟-11 & Arch Linux & KDE & VS Code & Iosevka / JetBrains Mono.
